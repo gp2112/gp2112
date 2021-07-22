@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**gp2112/gp2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**gp2112/gp2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+#### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently in the 2nd year of graduation in Computer Science
+- 👯 I’m looking to collaborate with open source projects!
+- 📫 How to reach me: guircp@usp.br
+- 😄 Pronouns: He
+
+#### Languages and Tools:
+![image](https://user-images.githubusercontent.com/26512375/126711108-8e98b4be-061b-4043-a5a9-d18827c88e47.png)
+![image](https://user-images.githubusercontent.com/26512375/126711117-1fe0eb7d-3436-4006-bf5d-ec928f91d87c.png)
+![image](https://user-images.githubusercontent.com/26512375/126711198-af6bcb31-fb51-4a96-bdc8-9b9c93529c43.png)
+![image](https://user-images.githubusercontent.com/26512375/126711213-1307eae6-b4b4-4737-a96b-a75b61f755b6.png)
+![image](https://user-images.githubusercontent.com/26512375/126711254-5bd73260-4ed6-47dc-894e-184b6c825a73.png)
+![image](https://user-images.githubusercontent.com/26512375/126711264-0e4ad2e1-14ab-4615-a01a-ab3bdac9a831.png)
+![image](https://user-images.githubusercontent.com/26512375/126711357-e67ab61c-51e9-4cd0-a831-faf3df99445d.png)
+
+#### Stats
+
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gp2112)
+![image](https://github-readme-stats.vercel.app/api?username=gp2112)
