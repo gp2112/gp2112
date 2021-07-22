@@ -5,7 +5,6 @@
 - 🎓 I'm Currently in the 2nd year of graduation in Computer Science
 - 👯 I’m looking to collaborate with open source projects!
 - 📫 How to reach me: guircp@usp.br
-- 😄 Pronouns: He
 
 #### Languages and Tools:
 ![image](https://user-images.githubusercontent.com/26512375/126711108-8e98b4be-061b-4043-a5a9-d18827c88e47.png)
