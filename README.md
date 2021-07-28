@@ -30,3 +30,4 @@
 [![image](https://user-images.githubusercontent.com/26512375/127361819-bf6cf05b-b6a1-4c4b-8f5c-b069f728899a.png)](https://open.spotify.com/user/gp2112?si=c696c12997064745)
 [![image](https://user-images.githubusercontent.com/26512375/127361951-6a148716-534c-4963-8371-6e04c69ea8c5.png)](https://www.linkedin.com/in/guilherme-paixao2000/)
 
+[![Spotify playing](http://spotify.aio-api.ml/spotify?id=gp2112&theme=wavy&image=true&color_theme=none&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/user/gp2112)
