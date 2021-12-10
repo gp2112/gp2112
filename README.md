@@ -3,7 +3,7 @@
 #### About me:
 
 - 🎓 Studying Computer Science
-- 👯 I’m looking to collaborate with open source projects!
+- 👯 I like to collaborate with open source projects!
 - 📫 How to reach me: guircp@usp.br
 
 #### Languages and Tools:
