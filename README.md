@@ -2,7 +2,7 @@
 
 #### About me:
 
-- 🎓 I'm Currently in the 2nd year of Computer Science
+- 🎓 Studying Computer Science
 - 👯 I’m looking to collaborate with open source projects!
 - 📫 How to reach me: guircp@usp.br
 
