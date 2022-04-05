@@ -4,7 +4,7 @@
 
 - 🎓 Studying Computer Science
 - 👯 I like to collaborate with open source projects!
-- 📫 [Contact me here!](https://gp2112.github.io/contato.html)
+- 📫 [Contact me here!](https://guip.dev/contato.html)
 
 #### Languages and Tools:
 ![image](https://user-images.githubusercontent.com/26512375/126711108-8e98b4be-061b-4043-a5a9-d18827c88e47.png)
@@ -30,4 +30,3 @@
 [![image](https://user-images.githubusercontent.com/26512375/127361819-bf6cf05b-b6a1-4c4b-8f5c-b069f728899a.png)](https://open.spotify.com/user/gp2112?si=c696c12997064745)
 [![image](https://user-images.githubusercontent.com/26512375/127361951-6a148716-534c-4963-8371-6e04c69ea8c5.png)](https://www.linkedin.com/in/guilherme-paixao2000/)
 
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=gp2112&theme=wavy&image=true&color_theme=none&bars_when_not_listening=false&bg_color=&title_color=&text_color=&hide_status=false&display_timer=false)](https://open.spotify.com/user/gp2112)
