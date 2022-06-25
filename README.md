@@ -4,7 +4,7 @@
 
 - 🎓 Studying Computer Science
 - 👯 I like to collaborate with open source projects!
-- 📫 [Contact me here!](https://guip.dev/contato.html)
+- 📫 [Contact me here!](mailto:me@guip.dev)
 
 #### Languages and Tools:
 ![image](https://user-images.githubusercontent.com/26512375/126711108-8e98b4be-061b-4043-a5a9-d18827c88e47.png)
