@@ -16,7 +16,6 @@
 ![image](https://user-images.githubusercontent.com/26512375/126711213-1307eae6-b4b4-4737-a96b-a75b61f755b6.png)
 ![image](https://user-images.githubusercontent.com/26512375/126711254-5bd73260-4ed6-47dc-894e-184b6c825a73.png)
 ![image](https://user-images.githubusercontent.com/26512375/126711264-0e4ad2e1-14ab-4615-a01a-ab3bdac9a831.png)
-![image](https://user-images.githubusercontent.com/26512375/126711357-e67ab61c-51e9-4cd0-a831-faf3df99445d.png)
 
 #### Stats
 
